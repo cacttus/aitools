@@ -1,0 +1,7 @@
+/data/
+/node_modules/
+/__pycache__/
+/geckodriver.log/
+/.venv/
+/gpuart/output/
+/gpuart/tmp/

@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "stdlib.h": "c",
+    "random": "c",
+    "stdio.h": "c",
+    "cstring": "c",
+    "__bit_reference": "c",
+    "__string": "c",
+    "cstdint": "c",
+    "climits": "c",
+    "stdint.h": "c",
+    "limits.h": "c",
+    "complex": "c",
+    "valarray": "c",
+    "__node_handle": "c"
+  }
+}

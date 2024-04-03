@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "name": "debug",
+      "type": "python",
+      "program": "${file}",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "externalTerminal",
+      "args": [
+       ]
+    }
+  ]
+}
